@@ -1,7 +1,6 @@
 # Cucumber
 Cucumber using maven 
 
-Certainly! Here's a sample README for a GitHub repository containing a Cucumber framework using Java and Maven:
 
 ---
 
