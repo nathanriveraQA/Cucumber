@@ -85,5 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or need further assistance, please contact [Your Name](mailto:youremail@example.com).
 
 ---
-
-You can customize this README to fit your specific project's details and requirements. Be sure to update the placeholders (e.g., `yourusername`, `Your Name`, and `youremail@example.com`) with the relevant information for your project.
+ormation for your project.
